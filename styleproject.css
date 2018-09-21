@@ -30,8 +30,8 @@ a {
 
 .wrapper{
 
-	width:1500px;
-	height:500px;
+	width:800px;
+	height:400px;
     	text-align:center;
     	margin-right:auto;
     	margin-left:auto;
@@ -48,7 +48,7 @@ h1 {
       
       font-family:Cedarville Cursive;
 
-      font-size: 110px;
+      font-size: 60px;
 
       font-weight: lighter;
 
@@ -61,7 +61,7 @@ p {
 
 	font-family:Cedarville Cursive;
 
-      font-size: 60px;
+      font-size: 35px;
 
       font-weight: lighter;
       color: #000000;
