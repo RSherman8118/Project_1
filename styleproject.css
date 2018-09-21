@@ -1,0 +1,71 @@
+body {
+
+background: black url('../Project_1/birchtreessquare.jpg' ) repeat;
+margin: 0;
+
+
+}
+
+.white_box{
+
+
+	background-color: #ffffff;
+
+	padding:0px;
+	
+}
+
+
+
+.black{
+
+
+	background-color: #000000;
+	
+}
+
+a {
+    color: black;
+}
+
+.wrapper{
+
+	width:1500px;
+	height:500px;
+    	text-align:center;
+    	margin-right:auto;
+    	margin-left:auto;
+    	margin-top:0px;
+    	
+    	
+}
+
+
+
+
+
+h1 {
+      
+      font-family:Cedarville Cursive;
+
+      font-size: 110px;
+
+      font-weight: lighter;
+
+      text-align: left;
+
+ padding:40px 0px 0px 0px;
+    }
+
+p {
+
+	font-family:Cedarville Cursive;
+
+      font-size: 60px;
+
+      font-weight: lighter;
+      color: #000000;
+      text-align: right;
+      padding:0px 0px 60px 0px;
+
+}

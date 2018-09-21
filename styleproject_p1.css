@@ -1,0 +1,50 @@
+.blackbox {
+
+background-color:black; 
+         width:500px; 
+         height:500px; 
+         position:relative; 
+         top:10px; 
+         left:80px; 
+         z-index:2;
+         }
+
+         .blackbox2 {
+
+background-color:black; 
+         width:500px; 
+         height:100px; 
+         position:relative; 
+         top:-60px; 
+         left:35px; 
+         z-index:1;
+         }
+
+                  .blackbox3 {
+
+background-color:black; 
+         width:500px; 
+         height:100px; 
+         position:relative; 
+          top:-220px; 
+         left:120px; 
+         z-index:3;
+         }
+
+         p {
+
+   font-family:Cedarville Cursive;
+
+      font-size: 20px;
+
+      font-weight: lighter;
+      color: #ffffff;
+      text-align: center;
+      padding:0px 0px 0px 0px;
+
+}
+
+      
+      
+      
+      
