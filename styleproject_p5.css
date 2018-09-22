@@ -7,13 +7,13 @@ body {
 .pinkwrapper{
 
 	width:600px;
-	height:1000px;
+	height:2000px;
     	text-align:center;
     	margin-right:auto;
     	margin-left:auto;
     	margin-bottom:auto;
     	margin-top:100px;
-    	background-color: magenta;
+    	background-color: #f915bb;
     	padding:100px 100px 100px 100px;
     	
 }
@@ -26,50 +26,28 @@ body {
     	margin-right:auto;
     	margin-left:auto;
     	margin-bottom:auto;
-    	margin-top:100px;
+    	margin-top:20px;
     	background-color: black;
     	padding:50px 50px 50px 50px;
     	
-}
-
-h1 {
-
-   font-family:Cedarville Cursive;
-
-      font-size: 60px;
-
-      font-weight: lighter;
-      color: white;
-      text-align: left;
-      padding:60px 50px 0px 100px;
-
-}
-
-h2 {
-
-   font-family:Cedarville Cursive;
-
-      font-size: 40px;
-
-      font-weight: lighter;
-      color: white;
-      text-align: left;
-      padding:10px 50px 10px 300px;
-
 }
 
 p {
 
    font-family:Cedarville Cursive;
 
-      font-size: 30px;
+      font-size: 35px;
 
       font-weight: lighter;
       color: white;
       text-align: left;
-      padding:0px 50px 20px 500px;
+      padding:10px 10px 0px 0px;
 
 }
+
+
+
+
 
 a {
     color: white;
