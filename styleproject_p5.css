@@ -2,6 +2,11 @@ body {
     background-color: #000000; 
     
 
+background: black url('../Project_1/hugsilo.png' ) repeat-x ;
+margin: 0;
+
+
+
   }
 
 .pinkwrapper{
@@ -12,7 +17,7 @@ body {
     	margin-right:auto;
     	margin-left:auto;
     	margin-bottom:auto;
-    	margin-top:100px;
+    	margin-top:0px;
     	background-color: #f915bb;
     	padding:10px 70px 70px 70px;
     	
