@@ -7,14 +7,14 @@ body {
 .pinkwrapper{
 
 	width:600px;
-	height:2000px;
+	height:600px;
     	text-align:center;
     	margin-right:auto;
     	margin-left:auto;
     	margin-bottom:auto;
     	margin-top:100px;
     	background-color: #f915bb;
-    	padding:100px 100px 100px 100px;
+    	padding:10px 70px 70px 70px;
     	
 }
 
@@ -44,6 +44,20 @@ p {
       padding:10px 10px 0px 0px;
 
 }
+
+.credit{
+
+   font-family:Cedarville Cursive;
+
+      font-size: 20px;
+
+      font-weight: lighter;
+      color: white;
+      text-align: left;
+      padding:0px 10px 0px 0px;
+
+}
+
 
 
 
